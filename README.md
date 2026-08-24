@@ -49,5 +49,6 @@ MySQL database used for storing merchant and payment information.
 mvnw.cmd spring-boot:run
 
 
-The application will start at:
-http://localhost:8080
+**Application URL:** http://localhost:8080
+
+
